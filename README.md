@@ -1,4 +1,4 @@
-# Roblox Blox Fruits Script 2024 Pro Toolkit Free Download (GUI)
+# Roblox Blox Fruits Script 2024 Pro Toolkit Free Download
 
 <div align="center">
   <a href="https://www.roblox.com/"><img src="https://img.shields.io/badge/Roblox-D92B2B.svg?style=for-the-badge&logo=Roblox&logoColor=white" alt="Roblox Badge"></a>
