@@ -29,7 +29,10 @@
 💡 **Why choose Roblox Blox Fruits Script 2024 Pro Toolkit?**
 - Safe and easy to use, designed for efficiency.  
 - Supports all the latest features of **Blox Fruits**.  
-- Optimized for smooth performance with no lags or crashes.  
+- Optimized for smooth performance with no lags or crashes.
+
+![blox fruits script](https://github.com/user-attachments/assets/04e47703-5fd9-47e3-81d0-7768806b9de8)
+
 
 ---
 
